@@ -1,0 +1,30 @@
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\bin\Debug\net6.0\Yellow Belt Katas.exe
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\bin\Debug\net6.0\Yellow Belt Katas.deps.json
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\bin\Debug\net6.0\Yellow Belt Katas.runtimeconfig.json
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\bin\Debug\net6.0\Yellow Belt Katas.dll
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\bin\Debug\net6.0\Yellow Belt Katas.pdb
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.csproj.AssemblyReference.cache
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.AssemblyInfoInputs.cache
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.AssemblyInfo.cs
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.csproj.CoreCompileInputs.cache
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.dll
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\obj\Debug\net6.0\refint\Yellow Belt Katas.dll
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.pdb
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.genruntimeconfig.cache
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Yellow Belt Katas\Yellow Belt Katas\obj\Debug\net6.0\ref\Yellow Belt Katas.dll
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\bin\Debug\net6.0\Yellow Belt Katas.exe
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\bin\Debug\net6.0\Yellow Belt Katas.deps.json
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\bin\Debug\net6.0\Yellow Belt Katas.runtimeconfig.json
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\bin\Debug\net6.0\Yellow Belt Katas.dll
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\bin\Debug\net6.0\Yellow Belt Katas.pdb
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.csproj.AssemblyReference.cache
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.AssemblyInfoInputs.cache
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.AssemblyInfo.cs
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.csproj.CoreCompileInputs.cache
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.dll
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\obj\Debug\net6.0\refint\Yellow Belt Katas.dll
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.pdb
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\obj\Debug\net6.0\Yellow Belt Katas.genruntimeconfig.cache
+C:\Users\AlienwareM15\Documents\GitHub\Yellow-Belt-Katas\Yellow Belt Katas\obj\Debug\net6.0\ref\Yellow Belt Katas.dll
